@@ -33,3 +33,10 @@ nav a {
 nav a:hover {
   color: yellow;
 }
+nav a:active { 
+  color: red;
+
+}
+nav a:visited {
+  color:rgb(0, 195, 255)
+}
