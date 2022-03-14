@@ -15,7 +15,7 @@ body {
       font-weight:bolder;
   }
 nav {
-  padding: 20px;
+  padding: 10px;
   background-color: black ;
   width: 100%;
   display: flex;
@@ -39,4 +39,8 @@ nav a:active {
 }
 nav a:visited {
   color:rgb(0, 195, 255)
+}
+table,td,th{
+  border: 1px solid black;
+  border-collapse: collapse;
 }
