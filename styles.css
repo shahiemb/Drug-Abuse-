@@ -61,5 +61,11 @@ input[type=text], textarea {
   border-radius: 4px;
 }
 input[type=text]:focus {
-    background-color: lightblue;}
-    
+    background-color: lightblue;
+}
+  .float-right{
+    float: right;
+  }    
+  .float-left {
+    float: left;
+}
