@@ -69,3 +69,15 @@ input[type=text]:focus {
   .float-left {
     float: left;
 }
+  .center-text{
+    text-align: center;
+  }
+  @media screen and (max-width: 480px){
+    .float-right,.float-left{
+        float: none;
+    }
+  }
+
+  
+    
+  
